@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1590787679 source:c:\users\deniz\desktop\jasarbasic_deniz_summative\gamesetup.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1589474397 source:c:\users\deniz\desktop\jasarbasic_deniz_summative\cullum_main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro5.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<windows.h>
+
+1590785594 source:c:\users\deniz\desktop\jasarbasic_deniz_summative\userinterface.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1592004247 source:c:\users\deniz\desktop\jasarbasic_deniz_summative\jasarbasic_deniz_main.cpp
+	"functions.h"
+
+1592004260 c:\users\deniz\desktop\jasarbasic_deniz_summative\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<allegro5/allegro5.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1590786934 source:c:\users\deniz\desktop\jasarbasic_deniz_summative\usercontrols.cpp
+	"functions.h"
+
+1592004792 source:c:\users\deniz\desktop\jasarbasic_deniz_summative\computer_controls.cpp
+	"functions.h"
+
+1596665463 source:c:\users\deniz\desktop\jasarbasic_deniz_summative\game_setup.cpp
+	"functions.h"
+
+1592004814 source:c:\users\deniz\desktop\jasarbasic_deniz_summative\user_controls.cpp
+	"functions.h"
+
+1592004384 source:c:\users\deniz\desktop\jasarbasic_deniz_summative\user_interface.cpp
+	"functions.h"
+
+1592004468 source:c:\users\deniz\desktop\jasarbasic_deniz_summative\user_functionality.cpp
+	"functions.h"
+
+1591555516 source:c:\users\deniz\desktop\jasarbasic_deniz_summative\game_setup_2.cpp
+	"functions.h"
+
+1592004605 source:c:\users\deniz\desktop\jasarbasic_deniz_summative\addons_setup.cpp
+	"functions.h"
+
+1592004602 source:c:\users\deniz\desktop\jasarbasic_deniz_summative\ball_movement.cpp
+	"functions.h"
+

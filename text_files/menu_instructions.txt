@@ -1,0 +1,26 @@
+                                           
+				                  ___  ___  _  _  ___
+                                                 | _ \/ _ \| \| |/ __|
+                                                 |  _/ (_) | .` | (_ |
+                                                 |_|  \___/|_|\_|\___|
+
+                  ______________________________________________________________________________________
+
+                                                         RULES:
+
+                  Pong is a solo or two-player game that features a paddle for each player and one 
+                  ball. The goal of the game is for a player to earn more points than the opponent.
+                  Points are earned when the opponent fails to return the ball to the other player.
+
+                  ______________________________________________________________________________________
+
+                                                      INSTRUCTIONS:
+
+                    Left Player:                                     Right Player:
+
+                    --> To move UP press w.                           -->  To move UP press up arrow.
+
+                    --> To move DOWN press s.                         -->  To move DOWN press down arrow.
+	
+						   PRESS ESC TO EXIT
+                  ______________________________________________________________________________________

@@ -1,0 +1,25 @@
+
+
+
+                                                  ___  ___  _  _  ___
+                                                 | _ \/ _ \| \| |/ __|
+                                                 |  _/ (_) | .` | (_ |
+                                                 |_|  \___/|_|\_|\___|
+
+
+
+
+
+                                                       1. PLAY
+
+                                                    2. INSTRUCTIONS
+						
+						    3. GAME SETTINGS
+
+                                                      4. CREDITS
+
+
+
+
+                                                    Welcome to PONG!
+                                        Please select an option (1, 2, 3, or 4): 

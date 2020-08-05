@@ -1,0 +1,11 @@
+
+
+
+     						  ___  ___  _  _  ___
+                                                 | _ \/ _ \| \| |/ __|
+                                                 |  _/ (_) | .` | (_ |
+                                                 |_|  \___/|_|\_|\___|
+
+
+                          Pong was created by Deniz Jasarbasic for the ICS3U 2020 summative.
+                                      Copyright 2020 - Deniz Jasarabsic - Pong

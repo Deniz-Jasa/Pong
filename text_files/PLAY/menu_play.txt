@@ -1,0 +1,9 @@
+PONG Game Modes: 
+
+
+	a. PLAYER VS. PLAYER
+
+	b. PLAYER VS. COMPUTER
+
+
+Please select an option (a or b): 

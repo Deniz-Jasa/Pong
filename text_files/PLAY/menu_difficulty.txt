@@ -1,0 +1,11 @@
+Select a Level of Difficulty:
+
+
+	1. Easy
+
+	2. Medium
+
+	3. Hard
+
+
+Please select an option (1, 2 or 3): 
